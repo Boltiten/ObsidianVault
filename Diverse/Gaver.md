@@ -1,0 +1,25 @@
+- [x] Mamma
+	- [x] Stekepanne
+- [ ] Pappa
+- [x] Marius
+	- [ ] Minnekort 1TB
+- [x] Marianne
+	- [x] Airtags?
+- [x] Bestemor
+	- [x] Pute
+- [ ] Farfar
+- [ ] Camilla/Jakob
+	- [x] Spisepinner
+	- [ ] Kort
+- [ ] Elisabeth
+	- Strikke - kanskje bake noe ekstra?
+	- Kort
+- [x] Kamilla
+	- Kort
+	- Slackline
+- [ ] Jobb?
+- [x] Gina
+- [ ] Huseiere
+- [ ] Onkel/Tante
+- [x] Markus
+	- [x] Bok - han har sendt forslag

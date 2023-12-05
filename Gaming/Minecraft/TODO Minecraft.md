@@ -1,0 +1,21 @@
+- [x] Creeper farm
+- [x] New iron farm
+- [x] New villager farm
+- [x] Wool Farm
+- [x] Get to end
+	- [x] Get enderpearls
+	- [x] Get bow
+		- [x] Enchant power V
+- [x] Get bacon
+- [x] Trading hall
+	- [ ] Zombie transform
+	- [ ] Library
+	- [ ] Blacksmiths
+	- [ ] Other
+	- [x] Gold farm
+	- [ ] ![[Pasted image 20231203131040.png]]
+- [ ] Mini Wheat farm
+- [ ] Super Smelter
+- [ ] Recreate floor
+- [ ] Storage Sorter
+- [ ] 
