@@ -7,6 +7,7 @@
 - [ ] Lightning strike raider, berzerker - speed
 	- [ ] Litt svak pob, men kan være min feil
 - [ ] Arc hiero, inquisitor, elementalist, trickster (traps? mines??) - fuckings ARC
+	- Har en trickster pob med opptil 5 mil dps relativt dårlig gear
 - [ ] Totems hiero?
 - [ ] Absolution -> Dominating Blow guardian - support
 - [ ] Toxic rain raider/pathfinder - speed
